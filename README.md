@@ -1,7 +1,7 @@
 # <p align="center"><img height="50" src="https://cdn3.emoji.gg/emojis/7180_pokestop.png">Hi! I'm Omar Arias<img height="50" src="https://cdn3.emoji.gg/emojis/7180_pokestop.png">
 </p>
 
-### <p align="center">👨🏽‍💻 Full-Stack developer Focused on Spring Boot 🍃 , React ⚛ , And Angular 🅰️ .</p>
+### <p align="center">👨🏽‍💻 Full-Stack developer Focused on Spring Boot 🍃 , React ⚛</p>
 
 
 <p align="center">
